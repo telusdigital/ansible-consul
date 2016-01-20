@@ -2,6 +2,9 @@
 
 Consul is a tool for service discovery and configuration. Consul is distributed, highly available, and extremely scalable.
 
+
+[![Build Status](https://travis-ci.org/telusdigital/ansible-consul.svg?branch=master)](https://travis-ci.org/telusdigital/ansible-consul)
+
 [![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
 
 Tunables
