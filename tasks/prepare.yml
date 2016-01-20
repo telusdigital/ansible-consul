@@ -12,7 +12,7 @@
     state: directory
     path: "{{ item }}"
     owner: consul
-    group: wcadmin
+    group: staff
     mode: 0750
   with_items:
     - /opt/consul/bin
